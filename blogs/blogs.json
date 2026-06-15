@@ -2,6 +2,13 @@
   "repo": "suno-ai",
   "feeds": [
     {
+      "source": "https://suno.com/blog",
+      "feed_url": "https://suno.com/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
       "source": "https://help.suno.com",
       "feed_url": "https://help.suno.com",
       "title": "",
@@ -9,6 +16,6 @@
       "method": "none"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-06-01T23:35:02Z"
+  "post_count": 2,
+  "fetched": "2026-06-14T20:42:17Z"
 }
