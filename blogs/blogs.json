@@ -3,19 +3,18 @@
   "feeds": [
     {
       "source": "https://suno.com/blog",
-      "feed_url": "https://suno.com/blog",
-      "title": "",
-      "saved": 0,
-      "method": "none"
+      "feed_url": "",
+      "saved": 2,
+      "method": "agent-scrape"
     },
     {
       "source": "https://help.suno.com",
-      "feed_url": "https://help.suno.com",
-      "title": "",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
+      "method": "agent-scrape"
     }
   ],
-  "post_count": 2,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 4,
+  "fetched": "2026-06-27T13:13:43Z",
+  "agent_pulled": "2026-06-27"
 }
