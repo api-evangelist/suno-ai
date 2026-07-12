@@ -42,6 +42,8 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/suno-ai-domain-security.yml
   - type: Website
     url: https://suno.com
   - type: AlternateWebsite
