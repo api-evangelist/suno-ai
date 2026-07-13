@@ -2,19 +2,14 @@
   "repo": "suno-ai",
   "feeds": [
     {
-      "source": "https://suno.com/blog",
-      "feed_url": "",
-      "saved": 2,
-      "method": "agent-scrape"
-    },
-    {
       "source": "https://help.suno.com",
-      "feed_url": "",
+      "feed_url": "https://help.suno.com",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
   "post_count": 4,
-  "fetched": "2026-06-27T13:13:43Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
