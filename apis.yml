@@ -20,9 +20,20 @@ description: >-
   hosts the open-source Bark text-to-audio model and supporting tooling
   rather than a Suno product SDK.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Provider
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/suno-ai.png
 tags:
   - Music
   - AI Music Generation
